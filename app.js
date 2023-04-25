@@ -53,6 +53,3 @@ app.get("/", function(req, res){
 
 
 //Mailchimp API Key
-//7e61036262aa900de34a40a6a935a6f5-us13
-//Audience ID
-//1fba4b19b4
